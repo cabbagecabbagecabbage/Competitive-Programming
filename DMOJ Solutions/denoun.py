@@ -1,0 +1,1 @@
+for i in range(int(input())):print(sum([word[0].isupper() for word in input().split()]))
